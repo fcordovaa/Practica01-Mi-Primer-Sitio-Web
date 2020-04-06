@@ -18,7 +18,9 @@ de videos de youtube.</p>
 	<li>Una página principal denominada index.html</li>
 	<li>Ocho páginas en formato *.html secundarias con temas relacionados a la página principal. Nota.- las páginas html, imágenes, audios, videos y otros recursos deberán estar organizadas en carpetas.</li>
 </ul>
+
 ![](images/informe/filename imagen1.png)
+
 <ul>
 	<li>Todas las páginas deberán tener un menú de navegación el cuál, permite al usuario navegar de una manera clara y sencilla entre todas las páginas HTML, tanto la principal como la secundaria.</li>
 	<li>Todas las páginas *.html deben estar estructuradas según la semántica de HTML5. Nota.- se debe explicar la estructura de cada una de las página. Una estructura correcta de HTML5, sería:</li>
@@ -31,7 +33,8 @@ de videos de youtube.</p>
 	<li>Todas las páginas *.html deben tener una etiqueta <b>header</b> la cuál, deberá contener una imagen (logo) relacionada al tema elegido.</li>
 </ul>
 
-  
+![Image 2](https://github.com/fcordovaa/Practica01-Mi-Primer-Sitio-Web/blob/master/images/informe/imagen2.png)
+
 <ul>
     <li>Todas las páginas *.html deben tener una etiqueta <b>footer</b> la cuál, deberá tener la información del estudiante como nombres completos, organización, correo (usar hipervínculo, mailto), teléfono (usar hipervínculo, tel), además deberá tener el símbolo de copyright junto a la leyenda de “Todos los derechos reservados”. Por ejemplo, © Todos los derechos reservados</li>
 	<li>Las páginas *.html deberán tener al menos dos etiquetas <b>section</b>, <b>article</b> y <b>aside</b>.</li>
