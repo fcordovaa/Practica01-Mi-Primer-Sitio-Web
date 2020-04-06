@@ -19,7 +19,7 @@ de videos de youtube.</p>
 	<li>Ocho páginas en formato *.html secundarias con temas relacionados a la página principal. Nota.- las páginas html, imágenes, audios, videos y otros recursos deberán estar organizadas en carpetas.</li>
 </ul>
 
-![](images/informe/filename imagen1.png)
+![Image 1](https://github.com/fcordovaa/Practica01-Mi-Primer-Sitio-Web/blob/master/images/informe/imagen1.png)
 
 <ul>
 	<li>Todas las páginas deberán tener un menú de navegación el cuál, permite al usuario navegar de una manera clara y sencilla entre todas las páginas HTML, tanto la principal como la secundaria.</li>
@@ -34,40 +34,50 @@ de videos de youtube.</p>
 </ul>
 
 ![Image 2](https://github.com/fcordovaa/Practica01-Mi-Primer-Sitio-Web/blob/master/images/informe/imagen2.png)
+![Image 3](https://github.com/fcordovaa/Practica01-Mi-Primer-Sitio-Web/blob/master/images/informe/imagen3.png)
 
 <ul>
     <li>Todas las páginas *.html deben tener una etiqueta <b>footer</b> la cuál, deberá tener la información del estudiante como nombres completos, organización, correo (usar hipervínculo, mailto), teléfono (usar hipervínculo, tel), además deberá tener el símbolo de copyright junto a la leyenda de “Todos los derechos reservados”. Por ejemplo, © Todos los derechos reservados</li>
 	<li>Las páginas *.html deberán tener al menos dos etiquetas <b>section</b>, <b>article</b> y <b>aside</b>.</li>
 </ul>
-  
-   
+
+![Image 4](https://github.com/fcordovaa/Practica01-Mi-Primer-Sitio-Web/blob/master/images/informe/imagen4.png)
+![Image 5](https://github.com/fcordovaa/Practica01-Mi-Primer-Sitio-Web/blob/master/images/informe/imagen5.png)
 <ul>
     <li>De igual manera, se pide que al menos una de las páginas dentro del contenido de la etiqueta , tengan los siguientes requisitos:</li>
 	<ol>
-        <li>Una tabla con la siguiente estructura:</li>
+        <li>Una tabla con la siguiente estructura planteada</li> 
         <li>Un video de YouTube (ver, etiqueta <b>iframe</b> ).</li>
-        <li>	Un video con la etiqueta <b>video</b>.</li>
-        <li>	Un audio con la etiqueta <b>audio</b>.</li>
-        <li>	Manejar listas ordenadas o desordenadas con al menos cinco ítems.</li>
-        <li>	Tener al menos cinco etiquetas de texto que se encuentran en la figura 1- 16 del texto guía de la asignatura.</li>
+        <li>Un video con la etiqueta <b>video</b>.</li>
+        <li>Un audio con la etiqueta <b>audio</b>.</li>
+        <li>Manejar listas ordenadas o desordenadas con al menos cinco ítems.</li>
+        <li>Tener al menos cinco etiquetas de texto que se encuentran en la figura 1- 16 del texto guía de la asignatura.</li>
     </ol>
 </ul>
  
- 
+![Image 6](https://github.com/fcordovaa/Practica01-Mi-Primer-Sitio-Web/blob/master/images/informe/imagen6.png)
+![Image 7](https://github.com/fcordovaa/Practica01-Mi-Primer-Sitio-Web/blob/master/images/informe/imagen7.png)
+
 <ul>	
     <li>Asimismo, se pide que todos los artículos tengan al menos una imagen cada uno. Nota.- se pide que todas las imágenes están almacenadas en una carpeta llamada “images”. Por lo tanto, se debe trabajar con rutas relativas.</li>
 </ul>
  
+![Image 8](https://github.com/fcordovaa/Practica01-Mi-Primer-Sitio-Web/blob/master/images/informe/imagen8.png) 
 
 <ul>
     <li>Finalmente, se pide que una de las páginas tenga al menos cuatro secciones () con tres artículos () cada sección. Luego, cada sección debe tener un encabezado (), en donde, se ubicaran enlaces que permitan navegar entre los artículos usando id’s (ver, página 63 del texto guía).</li>
 </ul>
- 
+
+![Image 9](https://github.com/fcordovaa/Practica01-Mi-Primer-Sitio-Web/blob/master/images/informe/imagen9.png)
+![Image 10](https://github.com/fcordovaa/Practica01-Mi-Primer-Sitio-Web/blob/master/images/informe/imagen10.png)
+![Image 11](https://github.com/fcordovaa/Practica01-Mi-Primer-Sitio-Web/blob/master/images/informe/imagen11.png) 
  
 <ul>
     <li>La evidencia de la validación de cada página HTML.</li>
 </ul>
   
+![Image 12](https://github.com/fcordovaa/Practica01-Mi-Primer-Sitio-Web/blob/master/images/informe/imagen12.png)
+![Image 13](https://github.com/fcordovaa/Practica01-Mi-Primer-Sitio-Web/blob/master/images/informe/imagen13.png)
 
 <p>URL del repositorio de la práctica <br>
 https://github.com/fcordovaa/Practica01-Mi-Primer-Sitio-Web <br>
@@ -79,5 +89,7 @@ https://github.com/fcordovaa/Curbside-Thai</p>
 <h1>Conclusiones</h1>
 <p>En el respectivo trabajo se llego a comprender de mejor manera la estructura básica de un archivo HTML de tal manera que sea mucho mas ordenada y a la hora de visualizar sea más rápido encontrar tales etiquetas, de igual manera se comprendió el uso de las etiquetas <b>iframe</b>, <b>video</b> y <b>audio</b>, también se logro comprender el uso de tablas, el uso de títulos y su respectiva jerarquía. En esta practica no se uso CSS por lo cual solo se tiene el fondo blanco por defecto y color negro en el texto, pero en las imágenes si se le añadió un formato de tamaño para que sea mas visible a la hora de visualizar la página.<p>
 <h1>Firma</h1>
+
+![Image 14](https://github.com/fcordovaa/Practica01-Mi-Primer-Sitio-Web/blob/master/images/informe/imagen14.png)
 
 
