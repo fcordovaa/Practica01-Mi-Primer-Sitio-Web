@@ -18,8 +18,7 @@ de videos de youtube.</p>
 	<li>Una página principal denominada index.html</li>
 	<li>Ocho páginas en formato *.html secundarias con temas relacionados a la página principal. Nota.- las páginas html, imágenes, audios, videos y otros recursos deberán estar organizadas en carpetas.</li>
 </ul>
-
-
+![](images/informe/imagen1.png)
 <ul>
 	<li>Todas las páginas deberán tener un menú de navegación el cuál, permite al usuario navegar de una manera clara y sencilla entre todas las páginas HTML, tanto la principal como la secundaria.</li>
 	<li>Todas las páginas *.html deben estar estructuradas según la semántica de HTML5. Nota.- se debe explicar la estructura de cada una de las página. Una estructura correcta de HTML5, sería:</li>
@@ -67,9 +66,9 @@ de videos de youtube.</p>
 </ul>
   
 
-<p>URL del repositorio de la práctica
-https://github.com/fcordovaa/Practica01-Mi-Primer-Sitio-Web
-URL del repositorio del Tutorial 01 - Curbside Thai
+<p>URL del repositorio de la práctica <br>
+https://github.com/fcordovaa/Practica01-Mi-Primer-Sitio-Web <br>
+URL del repositorio del Tutorial 01 - Curbside Thai<br>
 https://github.com/fcordovaa/Curbside-Thai</p>
 
 
